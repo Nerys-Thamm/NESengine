@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNESEngine.a CMakeFiles/NESEngine.dir/NESEngine.cpp.o
+/usr/bin/ranlib libNESEngine.a

@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/neryst/Documents/Repos/NESengine/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/NESEngine.dir/NESEngine.cpp.o -c /home/neryst/Documents/Repos/NESengine/NESEngine.cpp",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/NESEngine.dir/NESEngine.cpp.o -c /home/neryst/Documents/Repos/NESengine/NESEngine.cpp",
   "file": "/home/neryst/Documents/Repos/NESengine/NESEngine.cpp"
 }
 ]
