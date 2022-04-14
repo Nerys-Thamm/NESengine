@@ -6,9 +6,11 @@ public:
     ResourceManager();
     ~ResourceManager();
 
+    //Load resources
     void loadResources();
     void freeResources();
 
+    //Load a level
     void loadLevel(int level);
     void freeLevel();
 
