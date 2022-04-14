@@ -1,5 +1,7 @@
 #include <vector>
 
+namespace NES
+{
 class Physics
 {
 public:
@@ -97,4 +99,5 @@ public:
         float gravity;
     };
 
+};
 };

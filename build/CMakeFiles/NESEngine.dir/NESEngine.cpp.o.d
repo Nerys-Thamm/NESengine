@@ -130,13 +130,12 @@ CMakeFiles/NESEngine.dir/NESEngine.cpp.o: \
  /usr/include/c++/11.2.0/bits/ostream.tcc /usr/include/c++/11.2.0/istream \
  /usr/include/c++/11.2.0/bits/istream.tcc \
  /home/neryst/Documents/Repos/NESengine/graphics.h \
- /usr/include/c++/11.2.0/bitset \
- /home/neryst/Documents/Repos/NESengine/types.h \
- /home/neryst/Documents/Repos/NESengine/input.h \
- /home/neryst/Documents/Repos/NESengine/resources.h \
- /home/neryst/Documents/Repos/NESengine/physics.h \
- /usr/include/c++/11.2.0/vector \
+ /usr/include/c++/11.2.0/bitset /usr/include/c++/11.2.0/vector \
  /usr/include/c++/11.2.0/bits/stl_uninitialized.h \
  /usr/include/c++/11.2.0/bits/stl_vector.h \
  /usr/include/c++/11.2.0/bits/stl_bvector.h \
- /usr/include/c++/11.2.0/bits/vector.tcc
+ /usr/include/c++/11.2.0/bits/vector.tcc \
+ /home/neryst/Documents/Repos/NESengine/types.h \
+ /home/neryst/Documents/Repos/NESengine/input.h \
+ /home/neryst/Documents/Repos/NESengine/resources.h \
+ /home/neryst/Documents/Repos/NESengine/physics.h

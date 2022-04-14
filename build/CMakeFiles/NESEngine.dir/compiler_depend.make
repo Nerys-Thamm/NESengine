@@ -183,16 +183,20 @@ CMakeFiles/NESEngine.dir/NESEngine.cpp.o: ../NESEngine.cpp \
   /usr/include/c++/11.2.0/bits/istream.tcc \
   ../graphics.h \
   /usr/include/c++/11.2.0/bitset \
-  ../types.h \
-  ../input.h \
-  ../resources.h \
-  ../physics.h \
   /usr/include/c++/11.2.0/vector \
   /usr/include/c++/11.2.0/bits/stl_uninitialized.h \
   /usr/include/c++/11.2.0/bits/stl_vector.h \
   /usr/include/c++/11.2.0/bits/stl_bvector.h \
-  /usr/include/c++/11.2.0/bits/vector.tcc
+  /usr/include/c++/11.2.0/bits/vector.tcc \
+  ../types.h \
+  ../input.h \
+  ../resources.h \
+  ../physics.h
 
+
+../physics.h:
+
+../types.h:
 
 /usr/include/c++/11.2.0/bits/vector.tcc:
 
@@ -203,10 +207,6 @@ CMakeFiles/NESEngine.dir/NESEngine.cpp.o: ../NESEngine.cpp \
 /usr/include/c++/11.2.0/bits/stl_uninitialized.h:
 
 /usr/include/c++/11.2.0/vector:
-
-../physics.h:
-
-../types.h:
 
 /usr/include/c++/11.2.0/bitset:
 
