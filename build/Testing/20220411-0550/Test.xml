@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++"
+	BuildStamp="20220411-0550-Experimental"
+	Name="Nerys-Workstation"
+	Generator="ctest-3.22.3"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="13.0.1"
+	OSName="Linux"
+	Hostname="Nerys-Workstation"
+	OSRelease="5.10.105-1-MANJARO"
+	OSVersion="#1 SMP PREEMPT Fri Mar 11 14:12:33 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="113"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="17595"
+	TotalPhysicalMemory="15991"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4049.57"
+	>
+	<Testing>
+		<StartDateTime>Apr 11 17:50 NZST</StartDateTime>
+		<StartTestTime>1649656239</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 11 17:50 NZST</EndDateTime>
+		<EndTestTime>1649656239</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

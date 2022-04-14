@@ -1,0 +1,9 @@
+#ifndef C0ED7D11_4072_4EE4_8D2E_EE12402DF1C1
+#define C0ED7D11_4072_4EE4_8D2E_EE12402DF1C1
+namespace NES
+{
+    typedef uint8_t byte;
+} // namespace NES
+
+
+#endif /* C0ED7D11_4072_4EE4_8D2E_EE12402DF1C1 */
