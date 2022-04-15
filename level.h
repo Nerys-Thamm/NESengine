@@ -1,4 +1,8 @@
 #include "graphics.h"
+#include "physics.h"
+#include "scripting.h"
+#include <vector>
+
 namespace NES
 {
 class Level {
@@ -15,6 +19,11 @@ public:
         //Attribute tables specify which color palette is to be used for each block (area of 4x4 tiles) on the screen
         uint8_t attrTable1[0xF0], attrTable2[0xF0], attrTable3[0xF0], attrTable4[0xF0]; //The attribute tables to be used for drawing Images
 
+        //Physics Data for the level
+        std::vector<Physics::Collider*> worldColliders;
+
+        //Scripting Data for the level
+        std::vector<ScriptObject*> objects;
     };
 
 

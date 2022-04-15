@@ -15,7 +15,7 @@ namespace NES
 class System
 {
 private:
-    /* data */
+    Level::LevelData currentLoadedLevel;
 public:
     System(/* args */);
     ~System();
